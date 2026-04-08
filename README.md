@@ -71,7 +71,7 @@ Each experiment folder contains:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Bathula Chiranjeevi**  
 BTech CSE Student | Machine Learning Enthusiast 🚀  
 
 ---
